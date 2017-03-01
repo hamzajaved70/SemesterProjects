@@ -1,0 +1,152 @@
+﻿Build started 1/26/2015 9:58:38 PM.
+     1>Project "C:\Users\EXTRA\Desktop\Takeover Pankhas\OpenGLBasics\OpenGLBasics.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt openGLbasic.cpp
+         openGLbasic.cpp
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(336): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(344): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(374): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(470): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(479): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(511): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(606): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(614): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(622): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(656): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(716): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(771): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(823): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(920): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(928): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(936): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(970): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1030): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1085): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1137): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1192): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1220): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1248): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1276): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1390): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1398): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1406): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1440): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1500): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1555): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1607): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1662): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1690): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1718): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1746): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1852): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1860): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1868): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1917): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(1977): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2032): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2084): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2142): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2170): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2198): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2226): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2339): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2347): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2355): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2362): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2422): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2482): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2537): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2604): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2622): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2646): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2707): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2767): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2822): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2877): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2895): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2919): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2959): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(2985): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(3003): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(3014): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(3048): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(3066): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\extra\desktop\takeover pankhas\openglbasics\openglbasic.cpp(3078): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\EXTRA\Desktop\Takeover Pankhas\Debug\OpenGLBasics.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\EXTRA\Desktop\Takeover Pankhas\Debug\OpenGLBasics.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\EXTRA\Desktop\Takeover Pankhas\Debug\OpenGLBasics.lib" /MACHINE:X86 /SAFESEH Debug\openGLbasic.obj
+     1>openGLbasic.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         OpenGLBasics.vcxproj -> C:\Users\EXTRA\Desktop\Takeover Pankhas\Debug\OpenGLBasics.exe
+     1>Done Building Project "C:\Users\EXTRA\Desktop\Takeover Pankhas\OpenGLBasics\OpenGLBasics.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.39
